@@ -20,7 +20,7 @@ $ pecl install swoole
 Installation of CrowPHP via composer, the following command will install the framework and all of its dependencies with it.
 
 ```
-composer install crowphp/crow
+composer require crowphp/crow
 ```
 
 ### Hello world microservice using CrowPHP
